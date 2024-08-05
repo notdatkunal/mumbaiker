@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/mumbaike/public_html/
-    - /bin/cp * $DEPLOYPATH
